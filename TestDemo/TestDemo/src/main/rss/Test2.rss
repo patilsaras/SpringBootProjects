@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel>
+<title>My Cool Blog</title>
+<link>http://www.yourwebsite.com/</link>
+<description>My latest cool articles</description>
+
+<item>
+<guid>111</guid>
+<link>example.com/3</link>
+<title>Article 3</title>
+<description>My newest article.</description>
+<pubDate>Wed, 27 Nov 2013 13:20:00 GMT</pubDate>
+<category>category1</category>
+<content>content</content>
+</item>
+
+<item>
+<guid>112</guid>
+<link>example.com/2</link>
+<title>Article 2</title>
+<description>My second article.</description>
+<pubDate>Tue, 26 Nov 2013 12:15:12 GMT</pubDate>
+<category>category2</category>
+<content>content</content>
+</item>
+
+</channel>
+</rss>
